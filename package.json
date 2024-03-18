@@ -1,0 +1,22 @@
+{
+  "name": "alias",
+  "version": "1.0.0",
+  "description": "testing terminal alias",
+  "main": "index.md",
+  "scripts": {
+    "test": "cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalaikaran/alias.git"
+  },
+  "keywords": [
+    "alias"
+  ],
+  "author": "Aran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalaikaran/alias/issues"
+  },
+  "homepage": "https://github.com/kalaikaran/alias#readme"
+}
